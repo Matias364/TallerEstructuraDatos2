@@ -1,0 +1,2 @@
+-Registro de cambios
+El usuario <x> ha instalado chrome.exe en equipo 

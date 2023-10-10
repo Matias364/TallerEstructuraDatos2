@@ -1,0 +1,20 @@
+Juego,Call of Duty,Activision,18,39.99,FPS,2,Matias,Pedro,Jose
+Juego,Counter-Strike: Global Offensive,Valve,18,14.99,FPS,4,Pedro,Juan,Diego,Jose
+Juego,World of Warcraft,Blizzard Entertainment,12,49.99,MMO,2,Maria,Jose
+Juego,The Elder Scrolls Online,Bethesda Softworks,18,29.99,MMO,1,Jose
+Juego,Tetris Effect,Enhance,3,39.99,PUZZLE,6,Pedrito,Juanito,Arturito,Miguelito,Matias,Jose
+Juego,Candy Crush Saga,King,3,0.00,PUZZLE,5,Pedrito,Juanito,Arturito,Miguelito,Jose
+Juego,Grand Theft Auto V,Rockstar Games,18,29.99,ACTION,4,Matias,Manuel,Sofia,Jose
+Juego,Cyberpunk 2077,CD Projekt,18,59.99,ACTION,3,Andrea,Carlos,Jose
+Juego,The Witcher 3: Wild Hunt,CD Projekt,18,29.99,RPG,2,Matias,Jose
+Juego,Dark Souls III,FromSoftware,16,59.99,RPG,1,Jose
+Juego,FIFA 22,EA Sports,3,59.99,SPORT,3,Pedrito,Juanito,Arturito
+Juego,NBA 2K21,2K Sports,3,59.99,SPORT,3,Pedrito,Juanito,Arturito
+Juego,Among Us,InnerSloth,10,4.99,SURVIVAL,6,Pedrito,Juanito,Sofia,Jose,Carlos,Luis
+Juego,Minecraft,Mojang,7,26.95,SURVIVAL,6,Pedrito,Juanito,Sofia,Jose,Carlos,Luis
+Juego,Red Dead Redemption 2,Rockstar Games,18,59.99,ADVENTURE,3,Sofia,Luis,Jose
+Juego,Assassin's Creed Valhalla,Ubisoft,18,59.99,ADVENTURE,2,Manuel,Diego
+Juego,Stardew Valley,ConcernedApe,3,14.99,STRATEGY,3,Sofia,Andrea,Jose
+Juego,Age of Empires IV,Microsoft Studios,13,59.99,STRATEGY,3,Sofia,Andrea,Luis
+Juego,Microsoft Flight Simulator,Microsoft Studios,3,59.99,SIMULATOR,4,Sofia,Andrea,Matias,Jose
+Juego,SimCity 2022,Electronic Arts,10,49.99,SIMULATOR,4,Pedrito,Juanito,Arturito,Miguelito
